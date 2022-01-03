@@ -1,5 +1,5 @@
 # GM-MOTORS
-![gm motors bg](https://user-images.githubusercontent.com/86026272/143788011-77e0c62a-f6fe-4934-89ca-83eddddd341a.PNG)
+![motors](https://user-images.githubusercontent.com/86026272/147893003-6a263143-1c38-435f-bb9d-b007abc8fa26.PNG)
 
 # About
 Fictional website for practicing HTML and CSS Flexbox.
