@@ -4,7 +4,7 @@
 # About
 Fictional website for practicing HTML and CSS Flexbox.
 
-![Animação gm motors](https://user-images.githubusercontent.com/86026272/143788123-54340010-8b53-41cd-b1da-529aab6f211d.gif)
+![gm_motors](https://user-images.githubusercontent.com/86026272/147892960-5adea374-67e3-40ef-9814-02fa71359106.gif)
 
 # technologies used
 + HTML
