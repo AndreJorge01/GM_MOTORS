@@ -6,7 +6,7 @@ Fictional website for practicing HTML and CSS Flexbox.
 
 ![gm_motors](https://user-images.githubusercontent.com/86026272/147892960-5adea374-67e3-40ef-9814-02fa71359106.gif)
 
-# technologies used
+# technologies used.
 + HTML
 + CSS.
 # Start Dev Environment for VSCode
